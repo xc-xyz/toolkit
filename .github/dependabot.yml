@@ -17,7 +17,7 @@ enable-beta-ecosystems: true
       interval: "daily"
 
       # Check for npm updates at 9am UTC
-      time: "09:00"
+      time: "08:00"
 
     allow:
       # Allow both direct and indirect updates for all packages
